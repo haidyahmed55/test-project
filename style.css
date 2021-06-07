@@ -1,0 +1,54 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    width: 50%;
+    max-width: 750px;
+    min-width: 480px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+p {
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+h1 {
+    background-color: brown;
+    color: #fff;
+    text-align: center;
+    width: 500px;
+    margin-left: 17%;
+    margin-bottom: 5%;
+}
+
+h1:hover {
+    background-color: rosybrown;
+    color: #fff;
+    text-align: center;
+    width: 500px;
+    margin-left: 17%;
+    
+}
+
+h2{
+       background-color: brown;
+    color: #fff;
+    text-align: center;
+    width: 500px;
+    margin-left: 17%;
+    margin-bottom: 5%;
+}
+
+h2:hover{
+      background-color: rosybrown;
+    color: #fff;
+    text-align: center;
+    width: 500px;
+    margin-left: 17%;
+}
